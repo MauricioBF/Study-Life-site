@@ -4,7 +4,7 @@
     "theme_color": "#2a0044",
     "background_color": "#2a0044",
     "display": "standalone",
-    "start_url": "home.html",
+    "start_url": "index.html",
     "icons": [
         {
         "src": "images/icons/student-icon.png",
